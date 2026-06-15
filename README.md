@@ -1,5 +1,10 @@
 # Recommendation Engine Simulator
 
+
+http://127.0.0.1:5000
+
+https://www.youtube.com/watch?v=yAcdJziMlQg
+
 An educational, interactive, and modular recommendation engine built from scratch in Python. It includes a beautiful glassmorphic dark-mode web interface using Flask, allowing you to simulate and visualize user-based collaborative filtering recommendations on `localhost`.
 
 ---
